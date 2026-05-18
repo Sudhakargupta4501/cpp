@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // #include<iostream>
 // using namespace std;
 // class node{
@@ -68,3 +69,6 @@ int main(){
 
     return 0;
 }
+=======
+  for ( int i = 0 ; i < 4; i++){
+>>>>>>> 5dc9e045227ff3c292a005a8c84abaccd75f6852
